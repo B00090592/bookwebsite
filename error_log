@@ -1,0 +1,17 @@
+[08-Dec-2017 10:45:30 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Dec-2017 10:49:17 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Dec-2017 10:51:04 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Dec-2017 10:53:54 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Dec-2017 10:53:57 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Dec-2017 10:56:35 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Dec-2017 10:56:38 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Dec-2017 10:56:53 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Dec-2017 10:57:29 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Dec-2017 10:58:23 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Dec-2017 11:03:08 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/conorsproject/public_html/application/models/Conor_categories.php on line 25
+[08-Dec-2017 11:03:34 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/conorsproject/public_html/application/models/Conor_categories.php on line 25
+[08-Dec-2017 11:03:52 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/conorsproject/public_html/application/models/Conor_categories.php on line 25
+[08-Dec-2017 11:04:03 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/conorsproject/public_html/application/models/Conor_categories.php on line 25
+[08-Dec-2017 11:04:11 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Dec-2017 11:15:07 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Dec-2017 11:15:50 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/conorsproject/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135

@@ -1,0 +1,211 @@
+/*============================================================
+	For Small Desktop
+==============================================================*/
+
+@media (min-width: 980px) and (max-width: 1150px) {
+	.coming-soon.update .subscription-text h1 {
+		font-size: 43px;
+	}
+	.coming-soon.update .subscription-text p {
+		line-height: 30px;
+	}
+}
+
+
+/*============================================================
+	Tablet (Portrait) Design for a width of 768px
+==============================================================*/
+
+@media (min-width: 768px) and (max-width: 979px) {
+
+	.coming-soon .social-links {
+	  margin-bottom: 30px;
+	}
+	.coming-soon.update .subscription-text h1 {
+		font-size: 50px;
+	}
+
+}
+
+
+/*============================================================
+	Mobile (Portrait) Design for a width of 320px
+==============================================================*/
+
+@media only screen and (max-width: 767px) {
+	
+	.coming-soon.update .sform7 {
+		padding: 15px;
+	}
+	.coming-soon.update .input-field {
+		font-size: 14px;
+		margin-bottom: 15px;
+		margin-right: 0;
+		text-indent: 12px;
+		width: 100%;
+	}
+	.coming-soon.update .mail-submit {
+		width: 100%;
+	}
+	/*===================== Coming soon page ===================*/
+
+	.coming-soon .logo {
+		margin: 30px 0 15px;
+	}
+
+	.coming-soon .logo a span {
+		font-size: 28px;
+	}
+
+	.coming-soon .coming-text h1 {
+		font-size: 23px;
+		line-height: 40px;
+	}
+
+	.coming-soon .coming-text {
+		margin-bottom: 20px;
+	}
+
+	.coming-soon .go-down {
+		margin-top: 10px;
+	}
+
+	.coming-soon.update .subscription-text h1 {
+		font-size: 30px;
+		line-height: 60px;
+		margin-bottom: 30px;
+	}
+
+	.coming-soon.update .subscription-text h1 span {
+		font-size: 20px;
+	}
+
+	.coming-soon.update .subscription-text p {
+		display: none;
+	}
+
+	.coming-soon.update .page-up a {
+		height: 50px;
+		top: 15px;
+		right: 15px;
+		width: 50px;
+	}
+
+	.coming-soon.update .page-up a:before,
+	.coming-soon.update .page-up a:after {
+		margin: 0.5px 0 0 -12px;
+		width: 25px;
+	}
+
+	.coming-soon.update .input-field {
+		max-width: none;
+	}
+}
+
+/*============================================================
+		iPhone 6 Plus (Portrait) 414px
+==============================================================*/
+
+@media only screen and (min-width: 376px) and (max-width: 414px) {
+
+	.coming-soon .coming-text h1 {
+		font-size: 30px;
+		line-height: 55px;
+	}
+
+}
+
+
+/*============================================================
+		iPhone 5 landscape · width: 568px
+==============================================================*/
+
+@media only screen and (min-width: 420px) and (max-width:568px) {
+
+.coming-soon .logo {
+	margin: 20px 0 0;
+}
+
+.coming-soon .logo img {
+	max-width: 50px;
+}
+
+.coming-soon .coming-text {
+	margin-bottom: 0;
+}
+
+.coming-soon .coming-text h1 {
+	display: none;
+}
+
+.coming-soon .logo a span {
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+.coming-soon .go-down .vrbox {
+	height: 32px;
+	width: 22px;
+}
+
+.coming-soon .social-links ul li a {
+	font-size: 15px;
+	height: 35px;
+	line-height: 31px;
+	width: 35px;
+}
+.coming-soon.update .subscription-text h1 {
+	font-size: 30px;
+	line-height: 38px;
+	margin: 15px 0;
+}
+.coming-soon.update .sform7 {
+	margin-top: 0;
+}
+.coming-soon.update .mail-submit {
+	height: 40px;
+}
+
+}
+
+
+/*============================================================
+	iPhone 6 landscape · width: 667px
+==============================================================*/
+
+@media only screen and (min-width: 569px) and (max-width: 667px) {
+
+	.coming-soon .coming-text {
+		display: none;
+	}
+	.coming-soon .logo img {
+		max-width: 70px;
+	}
+	.coming-soon.update .subscription-text h1 {
+		line-height: 40px;
+	}
+	.coming-soon.update .sform7 {
+		margin-top: 25px;
+	}
+
+}
+
+/*============================================================
+		iPhone 6 Plus landscape · width: 736px
+==============================================================*/
+
+@media only screen and (min-width: 668px) and (max-width: 736px) {
+
+	.coming-soon .logo a span {
+		font-size: 25px;
+		line-height: 25px;
+	}
+	.coming-soon .coming-text h1 {
+		font-size: 20px;
+		line-height: 20px;
+	}
+	.coming-soon.update .sform7 {
+		margin-top: 0;
+	}
+
+}
