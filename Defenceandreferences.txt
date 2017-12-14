@@ -1,0 +1,41 @@
+References and defence:
+This is my Website textflie for all my references:
+
+B00090592: (Conor O’Keeffe)	
+Defence:
+I believe this project is a B grade as the time and effort I put into it ,This website has nearly  completely fulfilled the criteria asked on the requirments form. But a few things are unfinished due to the I had and also the difficulty of the project, Any questions you have on the methods I used in completing this project please ask.
+This website is currently live on a free server at www.conorsproject.info , 
+
+
+First of all the website isnt complete simply because I didn’t have enough time. This website I found was extremlty difficult.
+References : if found the use of twig templating really difficult and hard to understand so I used codeigniter framework: https://codeigniter.com/:  I found this easier beacsue there is a lot more information online to shouw you how to setup your website in the best possible way.
+As I found twig difficult to understand I have to find a different way of learning:
+I found a website call Lynda.com which helped me with my databases and php layouts
+https://www.lynda.com/
+this gives your good tips in creating your website
+I also found these books very easy to understand as I have a hard copy of these books I will reference them.
+
+Professional codeigniter: http://www.wrox.com/WileyCDA/WroxTitle/Professional-CodeIgniter.productCd-0470282452.html
+Codeigniter 1.7 professional Development: https://www.goodreads.com/book/show/8348961-codeigniter-1-7-professional-development
+Codeigniter 1.7: https://www.packtpub.com/web-development/codeigniter-17
+
+
+Templating: 
+As to lack of time I had I wasn’t able to personally create a website template as this project is based on being practising your web-development skill, so I Borrowed a basic template to speed up things for myself
+https://themeforest.net/
+This is where I got the template.
+
+Page content references: 
+my website is a game of thrones novel :a dance of dragons based website, so in my shop I added other books to sell as products example:
+
+about us page:all info found on : http://awoiaf.westeros.org/index.php/A_Dance_with_Dragons
+images and info:
+http://awoiaf.westeros.org/index.php/A_Clash_of_Kings
+https://en.wikipedia.org/wiki/A_Storm_of_Swords
+http://awoiaf.westeros.org/index.php/Dance_of_the_Dragons
+https://www.amazon.co.uk/Song-Ice-Fire-Volumes/dp/0007477155
+https://en.wikipedia.org/wiki/A_Feast_for_Crows
+
+
+
+
